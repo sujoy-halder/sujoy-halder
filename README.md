@@ -18,9 +18,7 @@ My interests include cloud-native systems, CI/CD automation, container orchestra
 
 🎯 Goal: Build scalable, reliable, and production-ready cloud systems
 
-🤝 Connect with me on LinkedIn:
-
-https://www.linkedin.com/in/sujoy-halder-engineer
+🤝 Connect with me on LinkedIn:https://www.linkedin.com/in/sujoy-halder-engineer
 
 📧 Open to collaboration, internships, and cloud/data engineering opportunities
 
